@@ -5,3 +5,11 @@ Answer: prob cus microsoft forces everyone after buying it out, also its easy to
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: The common answer is AI/ML which is fine, analytics for human and quantative behavior, probably logistics and something like inventory management.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging coludes everything, its history written in stone errors and all. With Rebasing it is removing the dirty work to show how just the straight development of the git
+
+Q4: What are you looking forward to this semester?
+
+Answer: I think this is more a needle for me to see where the industry is at and what i would like to persue. Im kinda lost at the moment so i wanna see.
