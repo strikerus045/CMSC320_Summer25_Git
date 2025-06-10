@@ -8,7 +8,7 @@ Answer: The common answer is AI/ML which is fine, analytics for human and quanta
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: merging coludes everything, its history written in stone errors and all. With Rebasing it is removing the dirty work to show how just the straight development of the git
+Answer: the  merging coludes everything, its history written in stone errors and all. With Rebasing it is removing the dirty work to show how just the straight development of the git
 
 Q4: What are you looking forward to this semester?
 
